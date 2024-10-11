@@ -1,0 +1,3 @@
+[submodule "Colour-Game"]
+	path = Colour-Game
+	url = git@github.com:Eleee28/Colour-Game.git
