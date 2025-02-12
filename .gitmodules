@@ -1,3 +1,6 @@
 [submodule "Swapzy-WebApp"]
 	path = Swapzy-WebApp
 	url = https://github.com/Eleee28/Swapzy-WebApp.git
+[submodule "Colour-Game"]
+	path = Colour-Game
+	url = https://github.com/Eleee28/Colour-Game.git
